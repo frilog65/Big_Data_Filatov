@@ -1,0 +1,5 @@
+sasl
+thrift
+thrift-sasl
+PyHive
+psycopg2-binary
